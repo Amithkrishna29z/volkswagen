@@ -45,9 +45,7 @@ h2 {
   margin-bottom: 16px;
 }
 
-h2 span {
-  font-weight: var(--bold);
-}
+
 
 h3 {
   color: var(--secondary-color);
@@ -177,7 +175,11 @@ header nav .fa-bars {
   border: 2px solid #f70142;
 }
 
+h2 span {
+  font-weight: var(--bold);
 
+
+}
 
 /* global classes */
 .container {
